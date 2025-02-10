@@ -1,0 +1,5 @@
+key-name                    = "deployer-key"
+network-security-group-name = "k8s-inbound"
+ubuntu-ami                  = "ami-04b4f1a9cf54c11d0"
+ubuntu-instance-node        = "t2.micro"
+ubuntu-instance-ctrlr       = "t2.medium"
