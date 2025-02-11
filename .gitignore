@@ -1,1 +1,6 @@
-^.terraform/
+.terraform/
+.terraform/*
+*key*
+*tfstate*
+*tf.*
+*.lock*
